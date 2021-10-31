@@ -1,1 +1,20 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/react-typist/src/Cursor";
+
+html, body {
+  background-color: #333;
+  color: #fafafa;
+  position: relative;
+}
+
+.Typist {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  color: mediumseagreen;
+
+
+  pre {
+    display: inline;
+  }
+}
