@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/RhisiartK/rhisiartk.github.io/issues"
   },
-  "homepage": "https://github.com/RhisiartK/rhisiartk.github.io#readme",
   "devDependencies": {
     "@reduxjs/toolkit": "^1.6.2",
     "@types/react": "^17.0.33",
